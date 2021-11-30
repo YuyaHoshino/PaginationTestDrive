@@ -1,0 +1,80 @@
+# Copyright (C) 2016 Pagination Test Drive
+# This file is distributed under the same license as the Pagination Test Drive package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagination Test Drive 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pagination-test-"
+"drive\n"
+"POT-Creation-Date: 2017-06-21 09:34+0900\n"
+"PO-Revision-Date: 2017-06-21 09:42+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pagination-test-drive.php:157
+msgid "Pagination Test Drive"
+msgstr ""
+
+#: pagination-test-drive.php:163
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: pagination-test-drive.php:168
+msgid ""
+"You can test the pagination without having to post an article even once."
+msgstr ""
+"記事をひとつも投稿することなく、ページネーションの動作テストをすることがで"
+"きます。"
+
+#: pagination-test-drive.php:173
+msgid "Enabled Roles"
+msgstr "有効な権限"
+
+#: pagination-test-drive.php:174
+msgid "Which roles will you test with?"
+msgstr "どの権限でテストしますか？"
+
+#: pagination-test-drive.php:198
+msgid "Virtual Found Posts"
+msgstr "仮想記事数"
+
+#: pagination-test-drive.php:199
+msgid "How many do you need articles?"
+msgstr "どのくらいの記事数でテストしますか？"
+
+#: pagination-test-drive.php:208
+msgid "Posts Per Page"
+msgstr "ページあたりの表示件数"
+
+#: pagination-test-drive.php:209
+msgid "How many posts per page?"
+msgstr "ページあたりの表示件数は何件にしますか？"
+
+#: pagination-test-drive.php:234
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: pagination-test-drive.php:278
+msgid "Archive Index"
+msgstr "アーカイブインデックス"
+
+#: pagination-test-drive.php:306
+msgid "Enabled Archives"
+msgstr "有効なアーカイブ"
+
+#: pagination-test-drive.php:307
+msgid "Which archives will you test?"
+msgstr "どのアーカイブでテストしますか？"
+
+#: pagination-test-drive.php:314
+msgid "Save Changes"
+msgstr "変更を保存"
