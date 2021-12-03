@@ -91,24 +91,11 @@
 #pagination_test_drive dd li {
 	display: inline-block;
 	margin-bottom: 10px;
+	margin-right: 10px;
 }
 #pagination_test_drive dd p {
 	margin-bottom: 10px;
 }
 #pagination_test_drive dd li p {
 	font-weight: bold;
-}
-
-/* jquery-ui */
-#pagination_test_drive .ui-state-default {
-	background: #fff;
-}
-#pagination_test_drive .ui-state-active {
-	background: #29ba96;
-	border-color: #29ba96;
-	border-left-color: #219578;
-	color: #fff;
-}
-#pagination_test_drive .ui-state-active.ui-corner-left {
-	border-left-color: #29BA96;
 }
