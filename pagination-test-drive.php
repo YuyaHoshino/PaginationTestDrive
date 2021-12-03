@@ -3,7 +3,7 @@
 Plugin Name: Pagination Test Drive
 Plugin URI: https://www.560designs.com/development/pagination-test-drive.html
 Description: You can test the pagination without having to post an article even once.
-Version: 1.3.1
+Version: 1.3.2
 Author: Yuya Hoshino
 Author URI: https://www.560designs.com/
 Text Domain: pagination-test-drive
